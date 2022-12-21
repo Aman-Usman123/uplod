@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "268423547720",
+    "project_id": "uplod-2bd10",
+    "storage_bucket": "uplod-2bd10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268423547720:android:cda0b14a1d464f0c75417d",
+        "android_client_info": {
+          "package_name": "com.example.uplod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268423547720-f3unmsprc2vfidt5lbkn49vuve70l2un.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC08Q7Dm1Ml16XqySekidvuM4bBVYc877Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268423547720-f3unmsprc2vfidt5lbkn49vuve70l2un.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
